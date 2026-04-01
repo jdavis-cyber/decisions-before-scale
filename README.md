@@ -104,8 +104,7 @@ Free to download, share, and use. No sign-up required.
 
 He holds the PMI-CPMAI certification and works across ISO 42001, NIST AI RMF, and DoD cybersecurity frameworks. His practice — **Second Order Strategy** — helps regulated organizations build governance programs that are operational, auditable, and built to scale.
 
-- 🌐 [Second Order Strategy](https://secondorderstrategy.com)
-- 💼 [LinkedIn](https://linkedin.com/in/jdaviscyber)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jdavis-cyber)
 
 ---
 
