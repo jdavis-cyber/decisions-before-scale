@@ -54,7 +54,7 @@ The absence of a coherent AI lifecycle isn't a documentation gap. It's an operat
 A governance framework overview — scope, applicability, key roles, escalation structure, and how to use the guide across all phases of AI work.
 
 ### Section 1 — Methodology Overview
-How CPMAI, ISO/IEC 42001, NIST AI RMF, NIST SP 800-53, and DoD CSRMC are harmonized into a single coherent operating model. Lifecycle alignment across Business Understanding, Data Understanding, Data Preparation, Model Development, Model Evaluation, and Operationalization.
+How CPMAI, ISO/IEC 42001, NIST AI RMF, NIST SP 800-53, and DoW CSRMC are harmonized into a single coherent operating model. Lifecycle alignment across Business Understanding, Data Understanding, Data Preparation, Model Development, Model Evaluation, and Operationalization.
 
 ### Section 2 — Governance Phase Gates
 Decision checkpoints at each lifecycle phase — what evidence is required, what risks must be assessed, and what constitutes approval to proceed.
@@ -84,7 +84,7 @@ Glossary of standardized terminology, document control procedures, and certifica
 | NIST SP 800-53 Rev 5 | Security and privacy control families |
 | NIST SP 1270 | Bias identification and mitigation |
 | NIST AI 100-1 | Generative AI security |
-| DoD CSRMC | Modernization principles for defense-aligned AI |
+| DoW CSRMC | Modernization principles for defense-aligned AI |
 | OMB M-25-21 | Federal AI governance expectations |
 | EU AI Act | High-risk AI system regulatory framing |
 
@@ -102,7 +102,7 @@ Free to download, share, and use. No sign-up required.
 
 **Jerome Davis** is an AI governance consultant, program manager, and cybersecurity practitioner based in Winter Garden, FL.
 
-He holds the PMI-CPMAI certification and works across ISO 42001, NIST AI RMF, and DoD cybersecurity frameworks. His practice — **Second Order Strategy** — helps regulated organizations build governance programs that are operational, auditable, and built to scale.
+He holds the PMI-CPMAI certification and works across ISO 42001, NIST AI RMF, and DoW cybersecurity frameworks. His practice — **Second Order Strategy** — helps regulated organizations build governance programs that are operational, auditable, and built to scale.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jdavis-cyber)
 
